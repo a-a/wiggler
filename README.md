@@ -45,7 +45,7 @@ Once imported, in its default configuration it just builds for me when you hit F
 | CMSIS Device                    | Apache License 2.0   | ARM Limited - STMicroelectronics |
 | STM32F1 HAL                     | BSD-3-Clause         | STMicroelectronics |
 | STM32_USB_Device_Library        | ST SLA0044           | STMicroelectronics |
-| the crap i put in main.c        | [WTFPL](http://www.wtfpl.net/about/)                | ¯\_(ツ)_/¯ | 
+| the crap i put in main.c        | [WTFPL](http://www.wtfpl.net/about/)                | ¯\\\_(ツ)_/¯ | 
 
 
 
